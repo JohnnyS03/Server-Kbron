@@ -1,1164 +1,1152 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721162305456 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721163520694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162308500 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163523773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162311564 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163526824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162314613 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163529867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162317663 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163532919 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162320734 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163535957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162323935 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163539024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162327111 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163542256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162330167 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163545302 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162333224 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163548359 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162336304 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163551435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162339368 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163554532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162342435 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163557610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162345497 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163560672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162348602 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163563756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162351655 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163566818 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162354711 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163569903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162357768 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163573050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162360833 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163576124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162363887 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163579183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162367006 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163582259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162370458 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163585340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162373531 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163588396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162376588 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163591459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162379637 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163594513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162382697 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163597563 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162385770 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163600679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162388810 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163603790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162391896 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163606877 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162394966 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163609931 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162398067 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163613015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162401186 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163616186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162404301 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163619815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162407351 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163623412 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162410415 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163627266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162413498 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163631062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162416609 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163634784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162419681 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163638517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162422741 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163641559 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162425835 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163644814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162428900 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163648745 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162431956 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163653703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162435050 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163656749 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162438133 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163659827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162441255 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163662935 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162444377 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163666087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162447442 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163669562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162450498 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163672618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162453590 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163675695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162456657 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163678776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162459731 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163681846 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162462933 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163684933 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162465995 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163687983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162469048 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163691130 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162472103 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163694189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162475187 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163697248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162478323 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163700299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162481368 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163703368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162484476 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163706424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162487557 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163709613 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162490654 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163712661 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162493739 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163715715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162496827 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163718817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162499882 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163722020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162502944 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163725114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162506135 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163728791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162509175 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163731835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162512250 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163734875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162515339 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163737918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162518409 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163740979 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162521469 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163744027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162524570 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163747113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162527674 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163750178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162531004 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163753307 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162534053 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163756418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162537133 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163759548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162540188 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163762617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162543360 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163765689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162546403 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163768723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162549440 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163771781 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162552649 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163774828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162555842 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163777932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162558940 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163781021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162562113 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163784063 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162565159 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163787183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162568275 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163790301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162571343 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163793357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162574560 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163796487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162577618 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163799614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162580670 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163802665 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162583757 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163805715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162586804 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163808767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162589890 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163811830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162592950 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163814897 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162596130 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163818138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162599169 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163821203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162602293 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163824308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162605357 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163827348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162608429 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163830388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162611493 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163833440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162614590 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163836490 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162617704 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163839554 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162620786 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163842605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162623849 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163845707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162626908 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163848742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162630020 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163851791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162633072 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163854849 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162636209 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163857906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162639288 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163860962 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162642468 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163864160 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162645564 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163867252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162648633 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163870317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162651685 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163873448 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162654781 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163876501 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162657833 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163879589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162660908 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163882635 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162663960 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163885692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162667074 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163888760 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162670137 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163891813 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162673199 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163894858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162676276 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163897900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162679341 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163901045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162682424 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163904155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162685487 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163907228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162688541 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163910384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162691607 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163913457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162694652 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163916542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162697737 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163919614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162700779 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163922662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162703839 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163925695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162706899 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163928766 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162709960 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163931815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162713121 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163934867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162716341 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163937930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162719397 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163940985 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162722432 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163944058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162725481 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163947151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162728534 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163950232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162731588 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163953300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162734651 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163956389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162737711 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163959502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162740762 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163962555 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162743825 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163965624 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162746947 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163968712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162749982 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163971769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162753042 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163974825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162756103 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163977948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162759345 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163981015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162762463 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163984094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162765519 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163987156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162768573 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163990232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162771620 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163993307 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162774701 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163996365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162777807 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721163999439 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162780908 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164002536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162783978 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164005608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162787014 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164008720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162790061 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164011782 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162793152 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164014882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162796193 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164017938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162799252 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164020996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162802361 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164024066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162805426 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164027221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162808499 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164030273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162811552 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164033323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162814601 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164036426 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162817757 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164039486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162820804 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164042563 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162823989 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164045667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162827124 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164048741 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162830291 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164051808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162833356 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164054874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162836413 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164057990 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162839470 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164061055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162842525 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164064112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162845744 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164067234 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162848783 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164070279 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162851934 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164073368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162855024 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164076435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162858082 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164079486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162861183 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164082573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162864255 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164085662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162867341 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164088742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162870431 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164091791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162873563 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164094909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162876627 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164098004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162879688 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164101051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162882752 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164104099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162885839 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164107169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162888925 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164110242 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162892075 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164113298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162895121 tunnel running, 2 tunnels registered
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721164116420 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162898240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721162901286 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-page-po.gl.at.ply.gg:1793 => 127.0.0.1:1793 (proto: Udp, port count: 1)
-higher-alexandria.gl.joinmc.link => 127.0.0.1:16311 (minecraft-java)
+higher-alexandria.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
